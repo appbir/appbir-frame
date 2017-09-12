@@ -1,0 +1,26 @@
+{
+  "name": "appbir-frame",
+  "version": "1.0.0",
+  "description": "use new web technology buld platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appbir/appbir-frame.git"
+  },
+  "keywords": [
+    "appbir",
+    "frame"
+  ],
+  "author": "appbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appbir/appbir-frame/issues"
+  },
+  "homepage": "https://github.com/appbir/appbir-frame#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
